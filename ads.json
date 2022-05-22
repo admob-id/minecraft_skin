@@ -21,7 +21,7 @@
       "isShowAds": true
     }
   ],
-  "priorities": ["GOOGLE", "FACEBOOK"],
+  "priorities": ["GOOGLE"],
   "product": ["pqoduct_id1", "pqoduct_id2", "pqoduct_id3"],
   "apps": [
     {
